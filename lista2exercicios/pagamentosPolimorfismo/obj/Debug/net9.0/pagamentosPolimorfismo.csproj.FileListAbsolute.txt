@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\bin\Debug\net9.0\pagamentosPolimorfismo.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\bin\Debug\net9.0\pagamentosPolimorfismo.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\bin\Debug\net9.0\pagamentosPolimorfismo.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\bin\Debug\net9.0\pagamentosPolimorfismo.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\bin\Debug\net9.0\pagamentosPolimorfismo.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\refint\pagamentosPolimorfismo.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\pagamentosPolimorfismo.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\pagamentosPolimorfismo\obj\Debug\net9.0\ref\pagamentosPolimorfismo.dll

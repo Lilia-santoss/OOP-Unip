@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\bin\Debug\net9.0\interfacevsclasseabs.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\bin\Debug\net9.0\interfacevsclasseabs.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\bin\Debug\net9.0\interfacevsclasseabs.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\bin\Debug\net9.0\interfacevsclasseabs.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\bin\Debug\net9.0\interfacevsclasseabs.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\refint\interfacevsclasseabs.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\interfacevsclasseabs.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\interfacevsclasseabs\obj\Debug\net9.0\ref\interfacevsclasseabs.dll

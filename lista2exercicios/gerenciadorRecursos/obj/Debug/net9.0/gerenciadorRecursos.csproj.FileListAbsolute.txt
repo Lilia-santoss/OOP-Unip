@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\bin\Debug\net9.0\gerenciadorRecursos.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\bin\Debug\net9.0\gerenciadorRecursos.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\bin\Debug\net9.0\gerenciadorRecursos.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\bin\Debug\net9.0\gerenciadorRecursos.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\bin\Debug\net9.0\gerenciadorRecursos.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\refint\gerenciadorRecursos.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\gerenciadorRecursos.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\gerenciadorRecursos\obj\Debug\net9.0\ref\gerenciadorRecursos.dll

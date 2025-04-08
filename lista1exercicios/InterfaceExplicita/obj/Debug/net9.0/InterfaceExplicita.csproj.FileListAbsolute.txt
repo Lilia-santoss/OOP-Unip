@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\bin\Debug\net9.0\InterfaceExplicita.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\bin\Debug\net9.0\InterfaceExplicita.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\bin\Debug\net9.0\InterfaceExplicita.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\bin\Debug\net9.0\InterfaceExplicita.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\bin\Debug\net9.0\InterfaceExplicita.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\refint\InterfaceExplicita.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\InterfaceExplicita.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\InterfaceExplicita\obj\Debug\net9.0\ref\InterfaceExplicita.dll

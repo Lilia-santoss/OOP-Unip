@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\bin\Debug\net9.0\ProcessadorDocumento.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\bin\Debug\net9.0\ProcessadorDocumento.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\bin\Debug\net9.0\ProcessadorDocumento.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\bin\Debug\net9.0\ProcessadorDocumento.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\bin\Debug\net9.0\ProcessadorDocumento.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\refint\ProcessadorDocumento.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ProcessadorDocumento.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\ProcessadorDocumento\obj\Debug\net9.0\ref\ProcessadorDocumento.dll

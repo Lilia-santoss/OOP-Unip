@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\bin\Debug\net9.0\SistemaE-commerce.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\bin\Debug\net9.0\SistemaE-commerce.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\bin\Debug\net9.0\SistemaE-commerce.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\bin\Debug\net9.0\SistemaE-commerce.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\bin\Debug\net9.0\SistemaE-commerce.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\refint\SistemaE-commerce.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\SistemaE-commerce.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaE-commerce\obj\Debug\net9.0\ref\SistemaE-commerce.dll

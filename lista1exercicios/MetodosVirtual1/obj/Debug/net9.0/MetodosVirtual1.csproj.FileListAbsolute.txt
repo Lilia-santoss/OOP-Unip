@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\bin\Debug\net9.0\MetodosVirtual1.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\bin\Debug\net9.0\MetodosVirtual1.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\bin\Debug\net9.0\MetodosVirtual1.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\bin\Debug\net9.0\MetodosVirtual1.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\bin\Debug\net9.0\MetodosVirtual1.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\refint\MetodosVirtual1.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\MetodosVirtual1.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\MetodosVirtual1\obj\Debug\net9.0\ref\MetodosVirtual1.dll

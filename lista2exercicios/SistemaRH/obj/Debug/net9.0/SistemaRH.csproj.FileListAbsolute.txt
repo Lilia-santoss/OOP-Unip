@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\bin\Debug\net9.0\SistemaRH.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\bin\Debug\net9.0\SistemaRH.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\bin\Debug\net9.0\SistemaRH.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\bin\Debug\net9.0\SistemaRH.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\bin\Debug\net9.0\SistemaRH.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\refint\SistemaRH.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\SistemaRH.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\lista2exercicios\SistemaBancarioSistemaBancari\SistemaProdutos\SistemaRH\obj\Debug\net9.0\ref\SistemaRH.dll

@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\bin\Debug\net9.0\PadraoDisposable.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\bin\Debug\net9.0\PadraoDisposable.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\bin\Debug\net9.0\PadraoDisposable.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\bin\Debug\net9.0\PadraoDisposable.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\bin\Debug\net9.0\PadraoDisposable.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\refint\PadraoDisposable.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\PadraoDisposable.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\PadraoDisposable\obj\Debug\net9.0\ref\PadraoDisposable.dll

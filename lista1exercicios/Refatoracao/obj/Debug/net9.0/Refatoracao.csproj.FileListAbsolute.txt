@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\bin\Debug\net9.0\Refatoracao.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\bin\Debug\net9.0\Refatoracao.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\bin\Debug\net9.0\Refatoracao.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\bin\Debug\net9.0\Refatoracao.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\bin\Debug\net9.0\Refatoracao.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\refint\Refatoracao.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\Refatoracao.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\Refatoracao\obj\Debug\net9.0\ref\Refatoracao.dll

@@ -1,0 +1,14 @@
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\bin\Debug\net9.0\HerancaPadraoDisposable.exe
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\bin\Debug\net9.0\HerancaPadraoDisposable.deps.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\bin\Debug\net9.0\HerancaPadraoDisposable.runtimeconfig.json
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\bin\Debug\net9.0\HerancaPadraoDisposable.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\bin\Debug\net9.0\HerancaPadraoDisposable.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.AssemblyInfoInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.AssemblyInfo.cs
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\refint\HerancaPadraoDisposable.dll
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.pdb
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\HerancaPadraoDisposable.genruntimeconfig.cache
+C:\Users\Lilia\OneDrive\Área de Trabalho\OrientaçãoObjeto\HerancaPadraoDisposable\obj\Debug\net9.0\ref\HerancaPadraoDisposable.dll
