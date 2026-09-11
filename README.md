@@ -6,12 +6,12 @@ Este projeto reúne exercícios e atividades práticas relacionadas à Programa�
 
 ## Conteúdos abordados
 
--  Classes e objetos;
+- Classes e objetos;
 - Encapsulamento;
 - Herança;
 - Polimorfismo;
 - Interfaces;
--  Classes abstratas;
+- Classes abstratas;
 - Programação orientada a objetos;
 - Desenvolvimento de sistemas.
 
